@@ -98,7 +98,7 @@ Via npm:
 npm install bcryptjs --save
 ```
 
-***Passport ogin Authentication***
+***Passport Login Authentication***
 
 Simple, unobtrusive authentication for Node.js
 
