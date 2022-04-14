@@ -25,6 +25,7 @@ var UserSchema = mongoose.Schema({
 	}
 });
 
+//Module Validation Passsword
 var User = module.exports = mongoose.model('User', UserSchema);
 
 module.exports.getUserById = function(id, callback){
